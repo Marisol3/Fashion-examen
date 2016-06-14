@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,CAAC;EAAC,OAAO,EAAE,8BAA2B;;AAAE;OAGjC;EACN,OAAO,EAAE,eAAe;EACrB,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,cAAc",
+"sources": ["fashion.scss"],
+"names": [],
+"file": "fashion.css"
+}

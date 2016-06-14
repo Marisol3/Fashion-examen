@@ -1,0 +1,14 @@
+* {
+  outline: 1px solid rgba(255, 0, 0, 0.5);
+}
+
+.cuadro {
+  padding: 2px 7px 2px 7px;
+  color: #666;
+  background-color: #eeeeee;
+  border: 1px solid #ccc;
+}
+
+.cuadro .rojo {
+  border: 1px solid red;
+}
